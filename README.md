@@ -1,7 +1,10 @@
 <h1 align="center"> Hi there, Lombar here👋</h1>
-<h3 align="center">Hello everyone, my name is Lombardo and I'm 34 years old, I do web development, apps in kotlin, somethings of networking and server administration. My pasion is learn and improve my skills, thank you for read my profile, work hard. 👨‍💻</h3>
 
-![bannergithub](https://github.com/user-attachments/assets/bdcbd428-e4c5-4f98-b3db-10dc0d247d03)
+<div align="center">
+	<img alt="GIF" src="https://github.com/user-attachments/assets/bdcbd428-e4c5-4f98-b3db-10dc0d247d03">
+</div>
+
+<h3 align="center">Hello everyone, my name is Lombardo and I'm 34 years old, I do web development, apps in kotlin, somethings of networking and server administration. My pasion is learn and improve my skills, thank you for read my profile, work hard. 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lombardolopez" alt="lombardolopez" /> </p>
 
