@@ -12,7 +12,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👨‍💼 I develop for [REFLEX, S.A. DE C.V.](https://reflex.com.sv/)
+- 👨‍💼 I develop for [GRUPO FERNANDEZ](https://reflex.com.sv/)
 
 - 🔭 I’m currently working on my project [BarberHot](https://github.com/lombardolopez/Prueba_de_Repositorio_1)
 
